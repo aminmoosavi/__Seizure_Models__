@@ -1,7 +1,7 @@
 # __Seizure_Models__
 
-### Below are the Links to the repositories for simulation and controllability of seizure spread on patient-specific and complex networks. 
-### Please refer to the cited papers for more details about the models and simulations.
+* ### Below are the Links to the repositories for simulation and controllability of seizure spread on patient-specific and complex networks. 
+* ### Please refer to the cited papers for more details about the models and simulations.
 
 * ### https://doi.org/10.26300/0h41-ye28
 
