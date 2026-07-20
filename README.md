@@ -12,7 +12,7 @@
 
 * ### https://doi.org/10.26300/fc7z-md62
 
-   [S. Amin Moosavi, Jordan Feldman, Wilson Truccolo, "Controllability of nonlinear epileptic-seizure spreading dynamics in large-scale subject-specific brain networks", Scientific Reports 15 (1), 6467 (2025)]
+   [S. Amin Moosavi, Jordan Feldman, Wilson Truccolo, "Controllability of nonlinear epileptic-seizure spreading dynamics in large-scale subject-specific brain networks", Scientific Reports 15 (1), 6467 (2025)](https://www.nature.com/articles/s41598-025-90632-w)
 
 
 
